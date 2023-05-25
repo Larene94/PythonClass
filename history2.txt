@@ -1,0 +1,71 @@
+commit 5ca2c599ac40278bb79eb8feedf4f1889b2f1e55
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:14:39 2023 +0100
+
+    Replace duplicate chorus
+
+commit 818726a3ef17441529c947956a894688a0fd45cd
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:11:34 2023 +0100
+
+    Adding back one line
+
+commit a3705e07388980e65550e500d90712b37fe2f653
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:05:42 2023 +0100
+
+    One line deleted
+
+commit 448b8a466b13c2c574283e0bdddf020e7a5e3b90
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:04:43 2023 +0100
+
+    chorus3
+
+commit 0885823dc44070724875d0b21b97d44beaf6ece0
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:03:52 2023 +0100
+
+    verses3
+
+commit 317b4eed8b6c923332a2ba859aa09c5c88dacb14
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:03:05 2023 +0100
+
+    chorus2
+
+commit 8329c5357065bcffbe4c093ef4bc63910ad1f9e6
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:02:15 2023 +0100
+
+    verses2
+
+commit 5a03627b59e50647639a06577fcbf5af735d89d9
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:01:22 2023 +0100
+
+    chorus1
+
+commit 3f98cf6c3ab9014d7167452ef93b8e3ef0af6ccf
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 23:00:53 2023 +0100
+
+    song
+
+commit 9ff4f68b367f40d77e8398a89c2cc597413297fd
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 22:58:34 2023 +0100
+
+    verses1
+
+commit 08e8ec5140a1af9ab9e03b76f03a98710c630e68
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 22:57:52 2023 +0100
+
+    Country Road
+
+commit c661cafa295dd234bda4ba59648e4b6f8920a9ce
+Author: Jing <larenejing@JINGs-MacBook-Air.local>
+Date:   Thu May 25 22:56:57 2023 +0100
+
+    country road

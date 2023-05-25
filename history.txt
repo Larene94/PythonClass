@@ -1,0 +1,14 @@
+total 56
+drwxr-xr-x  13 larenejing  staff  416 May 25 23:18 .
+drwxr-xr-x  11 larenejing  staff  352 May 25 22:54 ..
+drwxr-xr-x  12 larenejing  staff  384 May 25 23:14 .git
+-rw-r--r--   1 larenejing  staff  106 May 25 22:58 chorus1.txt
+-rw-r--r--   1 larenejing  staff  285 May 25 23:10 chorus3.txt
+drwxrw-r--   2 larenejing  staff   64 May 25 22:55 favourite
+-rw-r--r--   1 larenejing  staff    0 May 25 23:18 history.txt
+-rwxrw-r--   1 larenejing  staff  519 May 25 22:54 main.py
+-rwxr-xr-x   1 larenejing  staff   52 May 25 23:13 song.txt
+drwxr-xr-x   6 larenejing  staff  192 May 25 22:54 venv
+-rw-r--r--   1 larenejing  staff  157 May 25 22:58 verses1.txt
+-rw-r--r--   1 larenejing  staff  150 May 25 23:01 verses2.txt
+-rw-r--r--   1 larenejing  staff  178 May 25 23:03 verses3.txt
