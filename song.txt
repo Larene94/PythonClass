@@ -4,7 +4,7 @@ chorus1
 
 verses2
 
-chorus2
+chorus1
 
 verses3
 
